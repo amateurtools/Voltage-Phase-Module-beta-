@@ -3,6 +3,9 @@ Amplitude to Phase modulator. Legacied VST2 .dll plugin for Windows or Linux via
 
 Voltage Phase Module (beta3 6 July 2014)
 
+Press:
+https://bedroomproducersblog.com/2014/06/18/voltage-phase-module/
+
 ©AMATEUR TOOLS DSP
 concept: Josh Gura
 
