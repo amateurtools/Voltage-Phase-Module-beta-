@@ -1,4 +1,7 @@
 # Voltage-Phase-Module-beta-
+
+![Screenshot](./Voltage_Phase_Module_beta3_AMATEUR_TOOLS_DSP.jpg)
+
 Amplitude to Phase modulator. Legacied VST2 .dll plugin for Windows or Linux via Yabridge (https://github.com/robbert-vdh/yabridge)
 
 Voltage Phase Module (beta3 6 July 2014)
