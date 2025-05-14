@@ -49,5 +49,6 @@ A perfect example of how to use this plugin is with 2 tracks of sine waves that 
 changelog
 
 13 May 2025 - Revised NFO
+
 27 June 2014 - "beta3" released
 
