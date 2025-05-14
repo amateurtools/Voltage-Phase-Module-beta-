@@ -49,6 +49,5 @@ A perfect example of how to use this plugin is with 2 tracks of sine waves that 
 changelog
 
 13 May 2025 - Revised NFO
-6 July 2014 - Mod Input Clip Indicator added, Preset/Automation names fixed.
-27 June 2014 - "beta3" GUI overhaul, Third Algorithm added, more responsive 'Amount' Knob.
-15 June 2014 - "beta2" reduce plugin latency artifacts, reduce cpu usage, change gui
+27 June 2014 - "beta3" released
+
